@@ -6,5 +6,6 @@ const (
 
 	PathCreateUser           = "/user/create"
 	PathCreateWallet         = "/wallet/create"
+	PathUserCreateOrder      = "/user/order/create"
 	PathUserWithdrawByOpenID = "/partner/UserWithdrawByOpenID"
 )
